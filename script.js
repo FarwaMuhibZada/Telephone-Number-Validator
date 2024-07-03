@@ -16,4 +16,3 @@ clear.addEventListener('click', () => {
   results.textContent = '';
   Input.value = '';
 });
-
